@@ -13,9 +13,6 @@ git clone https://github.com/edwinaquino/Investigate_a_Dataset.git
 
 To view the HTML file, you will need a browser like Firefox, Internet Explorer or Chrome.
 
-```
-Give examples
-```
 
 ### Installing
 
